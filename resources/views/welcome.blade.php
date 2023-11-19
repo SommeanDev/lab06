@@ -1,14 +1,28 @@
 @extends('layouts.app')
 
 @section('contents')
+<article>
+    <section class="px-10 my-16">
+        <header class="h-[50rem] overflow-hidden">
+            <img class="float-right" src="{{ asset('images/bg-pre-honors-home.png') }}" alt='' height="100"/>
+            <div class="flex flex-col gap-8 w-[35rem] px-16">
+                <h1 class="text-[10rem]">
+                    The GOAT.
+                </h1>
+                <h6 class="text-2xl">
+                    No offense to CR7 fans.
+                </h6>
+                <p>
+                    Lionel Messi, in my eyes, is not merely a soccer legend but an embodiment of grace, brilliance, and sportsmanship.
+                     As a fervent fan, I am captivated by the seamless way he maneuvers the ball at his feet, showcasing a mastery that transcends the boundaries of the sport.
+                     Beyond his unparalleled skills on the pitch, Messi's profound awareness and strategic game knowledge elevate him to the status of a true maestro.
+                </p>
+            </div>
+        </header>
 
-    <section class="py-40 m-auto bg-orange-600">
-        <div class="w-2/4 mx-auto">
-            <h1 class="py-6 text-5xl">This is section title</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates expedita quae consectetur sit minima corporis error ab atque? Laborum qui voluptatibus possimus ea culpa tempora iusto atque optio dignissimos asperiores! Assumenda aliquam voluptatibus error qui a quos optio ipsa rem voluptatum, numquam officiis sequi facere et fugiat nesciunt maxime. Ratione?</p>
-        </div>
+
     </section>
-
+</article>
 @endsection
 
 

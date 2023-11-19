@@ -7,7 +7,7 @@
     <title>Welcome to app</title>
     @vite('resources/css/app.css')
 </head>
-<body class="flex flex-col min-h-screen bg-no-repeat bg-gradient-to-b from-indigo-800 to-slate-200">
+<body class="flex flex-col min-h-screen text-white bg-black">
     @include('layouts.navbar')
     <main class="flex-1">
         @yield('contents')
