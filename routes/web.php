@@ -1,7 +1,9 @@
 <?php
 
 use App\Http\Controllers\AboutPageController;
+use App\Http\Controllers\AwardsController;
 use App\Http\Controllers\ContactPageController;
+use App\Http\Controllers\HistoryController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -27,4 +29,14 @@ Route::get(
 Route::get(
     '/contact',
     [ContactPageController::class, 'index']
+);
+
+Route::get(
+    '/history',
+    [HistoryController::class, 'index']
+);
+
+Route::get(
+    '/awards',
+    [AwardsController::class,'index']
 );
