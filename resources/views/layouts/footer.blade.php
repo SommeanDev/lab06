@@ -9,4 +9,8 @@
         <li class="hover:text-[#ff425e] hover:scale-105 transition-transform"><a href="about">About - Unveil Messi off the pitch. Explore his life, interests, and philanthropy, beyond the football spotlight.</a></li>
         <li class="hover:text-[#ff425e] hover:scale-105 transition-transform"><a href="contact">Contact - Connect with Messi. Click here for inquiries, messages, or to be part of the ongoing conversation.</a></li>
     </ul>
+
+    <div class="text-center text-[1.5rem] hover:text-[#ff425e] hover:underline transition-all duration-300 hover:scale-110" style="text-decoration-color:white">
+        &copy; <a href="https://github.com/SommeanDev/messi_info_static_website">View source code on github -></a>
+    </div>
 </footer>
