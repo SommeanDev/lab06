@@ -7,29 +7,6 @@
                 <h1 class="text-[5rem] text-center bg-[#02030f]">Here are some glimpses from his career.</h1>
             </header>
             <main>
-                {{-- <ul>
-                    <li>
-                        <h4>Heading</h4>
-                        <sub>Subheading</sub>
-                    </li>
-                    <li>
-                        <h4>Heading</h4>
-                        <sub>Subheading</sub>
-                    </li>
-                    <li>
-                        <h4>Heading</h4>
-                        <sub>Subheading</sub>
-                    </li>
-                    <li>
-                        <h4>Heading</h4>
-                        <sub>Subheading</sub>
-                    </li>
-                    <li>
-                        <h4>Heading</h4>
-                        <sub>Subheading</sub>
-                    </li>
-                </ul> --}}
-
                 <div class="flex flex-col px-40 py-20 mt-12 space-y-8 text-[2rem] font-poppins">
                     <!-- Timeline Item 1 -->
                     <div class="flex items-center">
