@@ -1,10 +1,10 @@
 @extends('layouts.app')
 
 @section('contents')
-    <article class="py-40">
+    <article>
         <section>
-            <header>
-                <h1 class="text-[5rem] text-center bg-[#02030f]">Here are some glimpses from his career.</h1>
+            <header class="bg-[#202987] py-24 rounded-b-[3rem]">
+                <h1 class="text-[7rem] font-bold px-28 text-yellow-500">Here are some glimpses from his career.</h1>
             </header>
             <main>
                 <div class="flex flex-col px-40 py-20 mt-12 space-y-8 text-[2rem] font-poppins">

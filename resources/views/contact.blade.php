@@ -3,7 +3,7 @@
 @section('contents')
     <section>
         <div class="py-40 text-center">
-            <h1 class="text-5xl">To Contact him, you can go to the following:</h1>
+            <h1 class="text-5xl">To Contact him, you can use the following links:</h1>
             <div>
                 <ul class="flex justify-center gap-12 p-8 text-white">
                     <li class="text-[7rem] p-4 transition-transform rounded-md hover:bg-white hover:text-black hover:scale-110 w-40 mt-[1.35rem]"><a href="https://www.instagram.com/leomessi/?hl=en"><i class="fa-brands fa-instagram"></i></a></li>
