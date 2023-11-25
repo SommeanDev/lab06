@@ -1,4 +1,4 @@
-<header class="relative top-0 flex flex-col items-center w-full">
+<header class="relative top-0 z-50 flex flex-col items-center w-full">
     <nav class="fixed top-0 left-0 right-0 flex justify-between w-full px-32 mx-auto bg-gradient-to-b from-black to-transparent">
         <div class="flex content-center gap-2 p-5">
             <i class="py-3 fa-solid fa-message"></i>
